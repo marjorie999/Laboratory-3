@@ -38,7 +38,7 @@ CREATE TABLE `admin` (
 --
 
 INSERT INTO `admin` (`id`, `username`, `password`) VALUES
-(3, 'admin', '$2y$10$ETZOY/2hh8NDTcazITugXu1rae83iXDkUcLGH0zdkV1BX5Q2/xUAK');
+(3, 'Mj12345@gmail.com', '12345');
 
 -- --------------------------------------------------------
 
